@@ -2,11 +2,22 @@ body {
   background-color: rgb(253, 251, 251)
 }
 
+#titulo {
+  margin: 15px 0 15px 0;
+}
+
 #cabecalho {
   position: fixed;
   top: 0;
   background-color: #3b7526;
   color: #ffffff;
+}
+
+#navigation {
+  margin-top: 70px;
+  background-color: #3b7526;
+  color: #ffffff;
+  position: fixed;
 }
 
 #minha_foto {
