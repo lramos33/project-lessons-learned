@@ -46,3 +46,12 @@ body {
   padding-right: 15px;
   line-height: 20px;
 }
+
+.lado-esquerdo{
+  display: inline-block;
+}
+
+.lado-direito{
+  display: inline-block;
+  margin-left: 150px;
+}
