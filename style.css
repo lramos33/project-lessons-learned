@@ -1,9 +1,10 @@
 body {
-  background-color: rgb(253, 251, 251)
+  background-color: rgb(253, 251, 251);
+  font-family: monospace;
 }
 
 #titulo {
-  margin: 15px 0 15px 0;
+
 }
 
 #cabecalho {
@@ -23,7 +24,7 @@ body {
 #minha_foto {
   width: 400px;
   border-style: solid;
-  margin-top: 80px;
+  margin-top: 110px;
 }
 
 #nome_completo {
