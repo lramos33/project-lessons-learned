@@ -45,13 +45,33 @@ body {
   padding-left: 15px;
   padding-right: 15px;
   line-height: 20px;
+  width: 70%;
+  float: right;
 }
 
-.lado-esquerdo{
+.lado-esquerdo {
   display: inline-block;
 }
 
-.lado-direito{
+.lado-direito {
   display: inline-block;
   margin-left: 150px;
 }
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th{
+  background-color: #3b7526;
+  color: #ffffff;
+  padding: 8px;
+  text-align: left;
+}
+
+td {
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #d2d2d2;}
